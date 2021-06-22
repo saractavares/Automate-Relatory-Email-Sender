@@ -9,3 +9,5 @@ It's a automatic algorithm to download, analysis and to send the relatory about 
 
 <p>Algoritmo rodando:</p>
 https://youtu.be/saRUOnEiqug
+
+<h5>Código executável a partir de IN[83]</h5>
