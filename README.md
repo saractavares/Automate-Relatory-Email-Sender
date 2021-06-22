@@ -8,5 +8,4 @@ It's a automatic algorithm to download, analysis and to send the relatory about 
 </h4>
 
 <p>Algoritmo rodando:</p>
-
-<a href="{https://youtu.be/saRUOnEiqug}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+https://youtu.be/saRUOnEiqug
