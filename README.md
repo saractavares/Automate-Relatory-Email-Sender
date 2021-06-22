@@ -3,7 +3,7 @@ It's a automatic algorithm to download, analysis and to send the relatory about 
 
 <h1>Automatizando rotinas com Python e Jupyter</h1>
 
-<h4>Bibliotecas usadas: Pyautogui / Pyperclip / Time
+<h4>Bibliotecas usadas: Pyautogui / Pyperclip / Time / Pandas
     
 </h4>
 
